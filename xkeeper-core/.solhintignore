@@ -1,0 +1,2 @@
+solidity/interfaces/external/**
+*.ignore
