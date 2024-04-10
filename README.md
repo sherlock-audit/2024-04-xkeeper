@@ -24,7 +24,7 @@ As for the other protocol integrations, there is no relevance to protocol admins
 ___
 
 ### Q: Are there any protocol roles? Please list them and provide whether they are TRUSTED or RESTRICTED, or provide a more comprehensive description of what a role can and can't do/impact.
-Each automation vault has an owner, that role is RESTRICTED.
+Each automation vault has an owner, that role is TRUSTED for the vault itself, but RESTRICTED for the whole protocol.
 ___
 
 ### Q: For permissioned functions, please list all checks and requirements that will be made before calling the function.
